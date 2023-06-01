@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @noelle-crawfish
-- 👀 I’m interested in security and hardware.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @noelle-crawfish. I'm an undergraduate at the University of Illinois Urbana-Champaign interested in computer architecture and chip design. 
 
 <!---
 noelle-crawfish/noelle-crawfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
